@@ -9,3 +9,7 @@ eureka:
     port: '9090'
     ipAddress: localhost
     preferIpAddress: true
+
+foo2:
+  V1: 7771
+  V2: 6661
