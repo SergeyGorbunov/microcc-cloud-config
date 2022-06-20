@@ -5,7 +5,7 @@ eureka:
     shouldRegisterWithEureka: true
     validateCertificates: false
   instance:
-    appName: foo2-service
+    appName: foo2-service-dev
     port: '9090'
     ipAddress: localhost
     preferIpAddress: true
