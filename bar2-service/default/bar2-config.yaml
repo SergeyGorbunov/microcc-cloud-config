@@ -1,0 +1,11 @@
+eureka:
+  client:
+    serviceUrl: 'http://localhost:8761/eureka/'
+    shouldFetchRegistry: 'false'
+    shouldRegisterWithEureka: true
+    validateCertificates: false
+  instance:
+    appName: bar2-service-default
+    port: '9090'
+    ipAddress: localhost
+    preferIpAddress: true
