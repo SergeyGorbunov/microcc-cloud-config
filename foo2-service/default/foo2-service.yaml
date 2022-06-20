@@ -6,6 +6,6 @@ eureka:
     validateCertificates: false
   instance:
     appName: foo2-service-default
-    port: '9090'
+    port: '9099'
     ipAddress: localhost
     preferIpAddress: true
