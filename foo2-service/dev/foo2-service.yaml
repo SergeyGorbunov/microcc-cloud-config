@@ -1,3 +1,7 @@
 foo2:
   V1: 7771
   V2: 6661
+
+eureka:
+  instance:
+    appName: foo2-service-dev2
